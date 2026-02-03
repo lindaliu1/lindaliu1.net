@@ -1,1 +1,3 @@
-personal website built with next.js and deployed with vercel. forever work in progress!
+# Personal website
+
+Personal website made with Next.js and Tailwind CSS.
