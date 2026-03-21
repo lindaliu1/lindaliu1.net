@@ -1,3 +1,1 @@
-# Personal website
-
-Personal website made with Next.js and Tailwind CSS.
+public repo for my personal website!
