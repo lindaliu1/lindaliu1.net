@@ -17,7 +17,7 @@ export default function HeaderLayout({
             <Link href="/">linda liu</Link>
           </h1>
           <h2>
-            <Link href="/">home</Link>  .  <Link href="/projects">projects</Link>  .  <Link href="/Linda_Liu_Resume.pdf" target="_blank" rel="noopener noreferrer">resume</Link>  .  <Link href="/blog">blog</Link>
+            <Link href="/">home</Link>  .  <Link href="/Linda_Liu_Resume.pdf" target="_blank" rel="noopener noreferrer">resume</Link>  .  <Link href="/blog">blog</Link>
           </h2>
           <hr className="custom-hr" />
         </header>
